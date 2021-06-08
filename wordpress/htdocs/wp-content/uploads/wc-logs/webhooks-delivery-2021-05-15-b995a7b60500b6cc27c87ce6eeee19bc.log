@@ -1,0 +1,106 @@
+2021-05-15T15:12:51+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c796a03d5f365b4c2d8154c5aca2338b
+            [Date] => May 15, 2021 @ 15:12
+            [URL] => https://maker.ifttt.com/trigger/order_created/with/key/-p4H3LIsFaA2ZB6dA8i0I
+            [Duration] => 0.91113
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/5.1.0 Hookshot (WordPress/5.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://35.164.136.156/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => ifbQKLfRe7S72fiNSuZl6su5bphHN7aVBDFgrfBwh28=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => c796a03d5f365b4c2d8154c5aca2338b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 15 May 2021 15:12:51 GMT
+                                    [content-type] => text/html; charset=utf-8
+                                    [content-length] => 53
+                                    [x-powered-by] => Sad Unicorns
+                                    [x-robots-tag] => none
+                                    [x-top-secrettt] => VG9vIGVhc3k/IElmIHlvdSBjYW4gcmVhZCB0aGlzLCBFbWFpbCB1cyBhdCBqb2JzK3NlY3JldEBpZnR0dC5jb20uIFdlIHdhbnQgTWFrZXJzLg==
+                                    [etag] => W/"35-2SREBCNk6tk8aKy89wRn3uIx9rU"
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-05-15T20:33:53+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7bb0078611c4ab9519bc78cf844d5443
+            [Date] => May 15, 2021 @ 20:33
+            [URL] => https://maker.ifttt.com/trigger/order_created/with/key/-p4H3LIsFaA2ZB6dA8i0I
+            [Duration] => 0.40008
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/5.1.0 Hookshot (WordPress/5.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://coastyl.com/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => Dkb/f12kuwCsBLTSHVFparOD1PtnHlml4HjtC8OEz3Y=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => 7bb0078611c4ab9519bc78cf844d5443
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 15 May 2021 20:33:53 GMT
+                                    [content-type] => text/html; charset=utf-8
+                                    [content-length] => 53
+                                    [x-powered-by] => Sad Unicorns
+                                    [x-robots-tag] => none
+                                    [x-top-secrettt] => VG9vIGVhc3k/IElmIHlvdSBjYW4gcmVhZCB0aGlzLCBFbWFpbCB1cyBhdCBqb2JzK3NlY3JldEBpZnR0dC5jb20uIFdlIHdhbnQgTWFrZXJzLg==
+                                    [etag] => W/"35-2SREBCNk6tk8aKy89wRn3uIx9rU"
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
